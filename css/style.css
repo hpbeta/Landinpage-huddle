@@ -5,6 +5,7 @@ body {
     background-color: hsl(257, 40%, 49%);
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    max-width: 1400px;
 }
 
 .container {
@@ -30,6 +31,9 @@ body {
 }
 .main img{
     max-width: 500px;
+}
+.main .text-principal{
+    width: 500px;
 }
 .main .text-principal .title {
     font-size: 38px;
